@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JINHO's%20GITHUB&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JINHO's%20GITHUB&fontSize=90&animation=twinkling)
 
 ## 🛠️ Tech Stacks  
 
